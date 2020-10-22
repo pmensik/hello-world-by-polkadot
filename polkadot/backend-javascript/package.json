@@ -1,0 +1,11 @@
+{
+  "name": "backend-javascript",
+  "version": "1.0.0",
+  "description": "Command line utility for querying last header data",
+  "main": "index.js",
+  "author": "pmensik",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
